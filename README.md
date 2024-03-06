@@ -1,73 +1,70 @@
-# MERN-Project
-Blackcoffer
-Consulting Website:  https://blackcoffer.com | https://lsalead.com/
-Web App Products: https://netclan.com/ | https://insights.blackcoffer.com/ | https://hirekingdom.com/ | https://workcroft.com/
-Mobile App Products: Netclan | Bwstory
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Visualization Dashboard
-Test Assignment 
-The objective of this assignment is to create a data visualization dashboard as per as instructions given below. 
+## Available Scripts
 
-Data
-Json file: jsondata.json
+In the project directory, you can run:
 
-Data Visualization Dashboard
-Use given json data
-Create a MongoDB database from the Json data given.
-Use MERN Stack or MEAN Stack or react native to design and develop a dashboard. 
-For charts or visualizations, you can use any of the following:
-D3.js (highly recommended) 
-chart.js
-fusioncharts
-plotly.js
-google charts
-highcharts
-etc.
-Use any creative visual that you can create using the data to generate insights
-You must use the given data only.
-Develop any creative visualization that you like most, using provided data in json.
-Interactive graphs, charts, and visuals are recommended
-The dashboard should read the data from the MongoDB database.
-Create API in node,js to get data from the MongoDB
+### `npm start`
 
-Important variables to be visualized
-Intensity
-Likelihood
-Relevance
-Year
-Country
-Topics
-Region
-City 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Filters in the dashboard
-Add end year filter in the dashboard
-Add topics filters in the dashboard
-Add sector filter in the dashboard
-Add region filter in the dashboard
-Add PEST filter in the dashboard
-Add Source filter in the dashboard
-Add SWOT filter in the dashboard
-Country
-City
-Any other control or filters that you can add from the data, best of your knowledge 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Some Examples of the Dashboard
-https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-2/dashboards/analytics 
-https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-2/charts/apex-chart 
-https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-2/charts/chartjs 
+### `npm test`
 
-Where to submit it?
-To submit your solution, please fill out this google sheet and upload your article to google drive, and share the drive URL in the google sheet:  https://forms.gle/YBV6Xka5WsrPwYsB8    
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Timeline
-Timeline: 8 Days. The Sooner is better. 
+### `npm run build`
 
-Questions?
-Text message on Skype id “ajay_1229” if you have any questions. 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
